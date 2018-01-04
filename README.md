@@ -1,2 +1,2 @@
 # R-code-center
-Place for store and update code sheets
+My own R code cheat sheet
